@@ -1,0 +1,10 @@
+C:\Users\dsand\Source\Repos\Bowling\Bowling\bin\Debug\Bowling.exe.config
+C:\Users\dsand\Source\Repos\Bowling\Bowling\bin\Debug\Bowling.exe
+C:\Users\dsand\Source\Repos\Bowling\Bowling\bin\Debug\Bowling.pdb
+C:\Users\dsand\Source\Repos\Bowling\Bowling\obj\Debug\Bowling.csprojAssemblyReference.cache
+C:\Users\dsand\Source\Repos\Bowling\Bowling\obj\Debug\Bowling.csproj.CoreCompileInputs.cache
+C:\Users\dsand\Source\Repos\Bowling\Bowling\obj\Debug\Bowling.exe
+C:\Users\dsand\Source\Repos\Bowling\Bowling\obj\Debug\Bowling.pdb
+C:\Users\dsand\Source\Repos\Bowling\Bowling\bin\Debug\System.ValueTuple.dll
+C:\Users\dsand\Source\Repos\Bowling\Bowling\bin\Debug\System.ValueTuple.xml
+C:\Users\dsand\Source\Repos\Bowling\Bowling\obj\Debug\Bowling.csproj.CopyComplete
